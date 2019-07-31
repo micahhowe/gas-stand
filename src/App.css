@@ -7,7 +7,7 @@ header{
   display: flex;
   justify-content: center;
   color: greenyellow;
-  text-shadow: -5px 0 0 red;
+  /* text-shadow: -5px 0 0 red; */
   background: blue;
   border-top: solid 10px green;
   border-bottom: solid 10px orange;

@@ -5,7 +5,7 @@ item_name VARCHAR(100),
 category VARCHAR(100),
 quantity INTEGER,
 price INTEGER
-)
+);
 
 -- SOME STARTING DATA
 INSERT INTO stock_item
